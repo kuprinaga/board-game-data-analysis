@@ -1,6 +1,5 @@
-
+*.csv
 # Created by https://www.gitignore.io/api/r,macos
-
 ### macOS ###
 # General
 .DS_Store
@@ -48,6 +47,7 @@ Temporary Items
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -73,3 +73,4 @@ rsconnect/
 
 
 # End of https://www.gitignore.io/api/r,macos
+.Rproj.user
